@@ -4,6 +4,9 @@ Hello Hello Gents of the Internet!
 A few days ago I posted a screenshot from my iPhone of my Synology Infra monitoring dashboard. Some people demonstrated interest and asked me to provide instructions on how to achieve the same.
 The idea here is to provide what you need to download and provide de configuration files for it. I won't go step by step since text is not the best form to explain complex procedures. That being said I believe anyone with a lit bit more than Basic knowledge will be able to follow along and deploy your version of this stack.
 
+!!! DISCLAIMER !!!
+This is a pre alpha release, expect bugs, dirty code and be ready to spot lots of improvements that will come down the road when I turn everything you see here in a library.
+
 Tools -
 
 Telegraf -  docker pull telegraf
